@@ -1,10 +1,6 @@
-Sure — here’s a concise, professional, GitHub-style version without emojis:
-
----
-
 # Paradigms of Programming
 
-This repository contains assignments completed as part of the **Paradigms of Programming** course.
+This repository contains assignments completed as part of the **Paradigms of Programming (CS3110)** course.
 It explores different programming paradigms — functional, logical, and imperative — using OCaml.
 
 ---
